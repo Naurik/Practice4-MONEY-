@@ -1,0 +1,7 @@
+c:\users\acer-pc\source\repos\MoneyClass\MoneyClass\bin\Debug\MoneyClass.exe.config
+c:\users\acer-pc\source\repos\MoneyClass\MoneyClass\bin\Debug\MoneyClass.exe
+c:\users\acer-pc\source\repos\MoneyClass\MoneyClass\bin\Debug\MoneyClass.pdb
+c:\users\acer-pc\source\repos\MoneyClass\MoneyClass\obj\Debug\MoneyClass.csprojAssemblyReference.cache
+c:\users\acer-pc\source\repos\MoneyClass\MoneyClass\obj\Debug\MoneyClass.csproj.CoreCompileInputs.cache
+c:\users\acer-pc\source\repos\MoneyClass\MoneyClass\obj\Debug\MoneyClass.exe
+c:\users\acer-pc\source\repos\MoneyClass\MoneyClass\obj\Debug\MoneyClass.pdb
